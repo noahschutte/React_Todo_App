@@ -1,7 +1,6 @@
 # Instructions to run React Todo Application
 ```
 	> git clone
-	> cd react_todo
-	> npm install
+	> cd React_Todo_App
 	> webpack-dev-server
 ```
